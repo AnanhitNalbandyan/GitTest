@@ -1,0 +1,24 @@
+
+1.Как скопировать на свой компьютер репозиторий из github.com, что должно быть сделано предварительно
+ответ:
+a. Посмотреть конфигурацию в  gitbush-  git config –global -l
+б.git config - -global user.name Anahit.Nalbandzan
+в. git congig - -global user.email anahitgrigoryanr@gmail.com
+
+2. Как создать git репозиторий из локального каталога на своем компьютере. Как его отправить на github.com?
+
+ответ:
+a. В gitbush-  git clone git@github.com:AnanhitNalbandyan/HW17.02.2023.git
+б.  git add HW17.02.2023.docx
+в. git commit -m „“Add new file HW“ HW17.02.2023.txt
+г.git push
+
+3. Как получить на локальный компьютер изменения с github.com
+Git init
+
+
+4.Какую информацию нам дают команда : git status git remote -v 
+git status-- git показывает в каком статусе находится наш файл (untracked or tracked)
+remote -v --- показывает что мы сделали связь папки github.com с gitbush
+
+
