@@ -2,7 +2,7 @@
 1.Как скопировать на свой компьютер репозиторий из github.com, что должно быть сделано предварительно
 ответ:
 a. Посмотреть конфигурацию в  gitbush-  git config –global -l
-б.git config - -global user.name Anahit.Nalbandzan
+б.git config - -global user.name Anahit.Nalbandyan
 в. git congig - -global user.email anahitgrigoryanr@gmail.com
 
 2. Как создать git репозиторий из локального каталога на своем компьютере. Как его отправить на github.com?
